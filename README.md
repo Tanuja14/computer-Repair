@@ -1,3 +1,3 @@
 # computer-Repair
 This is my first repository
-This is my first comment
+This is my first commit
